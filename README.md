@@ -1,2 +1,4 @@
 # helmsman
-To store all my kubernetes related artifacts
+This repository contains various scripts and configuration files for setting up and managing Kubernetes clusters.
+
+
